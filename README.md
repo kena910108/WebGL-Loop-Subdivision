@@ -1,7 +1,10 @@
 # WebGL-Loop-Subdivision
 
 ## Overview
-WebGL-Loop-Subdivision is a project that demonstrates several key features related to 3D mesh manipulation and visualization using WebGL. This project allows you to load mesh elements from Collada files, switch between objects, display mesh outlines, and perform Loop subdivision.
+WebGL-Loop-Subdivision is a project demonstrating several key features related to 3D mesh manipulation and visualization using WebGL. This project allows you to load mesh elements from Collada files, switch between objects, display mesh outlines, and perform Loop subdivisions.
+
+![Cat](cat.png)
+
 
 ## Features
 - Load mesh elements from Collada files.
