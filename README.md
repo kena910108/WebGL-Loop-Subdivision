@@ -22,5 +22,3 @@ Run the following command from the project's root folder:
 
 3. Launch the application by opening your web browser and navigating to [http://127.0.0.1:8080](http://127.0.0.1:8080).
 
-## Enjoy Exploring!
-Feel free to experiment with the features and explore the capabilities of this WebGL project. If you have any questions or encounter any issues, please refer to the documentation or reach out to the project maintainers for assistance.
